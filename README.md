@@ -22,7 +22,7 @@ work and a project in its own right.
 
 I'm a Computer Science major and MIS minor at Penn State Behrend (Class of 2027),
 focused on building maintainable full-stack applications and translating between
-technical and non-technical stakeholders (PM experience). This site collects some  
+technical and non-technical stakeholders (PM experience). This site collects some
 of the projects, roles, and initiatives I've put those skills toward.
 
 ---
